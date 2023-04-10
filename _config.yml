@@ -22,8 +22,8 @@ title: Navy Patel # the main title
 
 tagline: Turning complex problems into elegant solutions with code # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # used by seo meta and the atom 
+Code is like humor. When you have to explain it, it’s bad
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://navypatel.github.io"
